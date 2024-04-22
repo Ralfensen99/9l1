@@ -1,0 +1,2 @@
+Nel primo esempio possiamo chiaramente vedere che le richieste vengono bloccate dal firewall che ipotizza anche che la macchina sia spenta.
+Nel secondo invece il servizio ha risposto correttamente alle nostre richieste ed nmap ci invia le porte tcp aperte  e la versione di windows.
